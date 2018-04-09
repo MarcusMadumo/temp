@@ -1,0 +1,69 @@
+.Todo
+{
+    background-color: #ffffff !important;
+    color: #111111 !important;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-bottom-color:#f8803b;
+    padding:10px;
+    margin:8px;
+    font-size: 12px;
+    width: 300px;
+    height: 70px;
+    text-align: center;
+}
+
+.btnRemove{
+    color: #f8803b !important;
+    background: #f8803b00 !important;
+    border: none !important;
+    
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center !important;
+    width: 50px;
+    height: 70px;
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+    padding-top:10px !important;
+    margin-top:8px !important;
+}
+
+.btnRemove:Hover{
+    background-color: #f8803b !important;
+    background: #444444 !important;
+}
+
+.outer-Container
+{
+    
+    position: relative;
+    top:25%;
+    left:25%;
+}
+
+.Header
+{
+    position: relative;
+    top:25%;
+    left:25%;
+    padding-top: 10%;
+}
+
+.btnAdd{
+    color: #f8803b !important;
+    background: #f8803b00 !important;
+    border: none !important;
+    position: relative;
+    top:25%;
+    left:25%;
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center !important;
+    width: 700px;
+    height: 70px;
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+    padding-top:10px !important;
+    margin-top:8px !important;
+}
